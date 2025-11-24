@@ -1,4 +1,4 @@
-<img width="949" height="25" alt="image" src="https://github.com/user-attachments/assets/eb6a9162-ecf2-4ffb-992e-bfebd3ec3f56" /><img width="949" height="25" alt="image" src="https://github.com/user-attachments/assets/e90b1c41-97f9-4bf8-b78d-7224245bc8af" />    This project shows data analysis using Excel. Taking raw Sample dataset of Food Store from kaggle . Dashboard analyzes revenue performance , providing insights into:-
+This project shows data analysis using Excel. Taking raw Sample dataset of Food Store from kaggle . Dashboard analyzes revenue performance , providing insights into:-
     -Product categories, payment preferences, revenue trends, store growth over time.
     This is just a simple part of learning project with analytics -driven.
 

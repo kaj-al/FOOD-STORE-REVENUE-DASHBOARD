@@ -9,11 +9,18 @@ This project shows data analysis using Excel. Taking raw Sample dataset of Food 
     -comparison of segments
     -data backed insights
 
+    #The problem statements and Insights are given inside the excel file.
+    
     DATASET:-
     -Type:Food store
     -Contains: Order ID and Date, Item type, Price,	quantity, transaction_amount,transaction_type,time_of_sale
     -Source: Kaggle
 
-    The problem statements and Insights are given inside the excel file.
+    Tools:
+    -Microsoft EXCEL
+    -Pivot tables
+    -Pivot charts 
+    -Slicers/Filters
 
-
+    SKills demonstrated:
+    -Data cleaning, statistical aggregation, dashboard creation, trend identification, reporting, Visualisation.
